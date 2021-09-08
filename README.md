@@ -10,6 +10,8 @@
 
 ## 1. useToggle<a name="useToggle"></a>
 
+This hook takes a parameter with value true or false and toggles that value to opposite. It's useful when we want to take some action into it's opposite action, for example: show and hide modal, show more/show less text, open/close side menu.
+
 ## 2. useTimeout<a name="useTimeout"></a>
 
 ## 3. useDebounce<a name="useDebounce"></a>
